@@ -17,7 +17,7 @@ I have experience and expertise coding in multiple languages including:
 ## Key Projects 🔧
 📌 AI in the Legal Sector, Chronology Generating Bot for LegalDuel 👩🏼‍⚖️
 
-Working with LegalDuel, me and a team of two other students created a chatbot to successfully generate legal chronologies given a document. Legal chronologies can be very burdensome and tedious to write, so to aid the legal sector, we used AI to help! We used Python to do the majority of the coding. We implemented ChatGPT's API to aid us in completion and evaluation. Along with this, we made a website to host these tasks (and generate a visual timeline)!
+Working with LegalDuel, me and a team of two other students created a chatbot to successfully generate legal chronologies given a document. Legal chronologies can be very burdensome and tedious to write, so to aid the legal sector, we used AI to help! We used Python, HTML, Java, and more to code. We implemented ChatGPT's API to aid us in completion and evaluation. Along with this, we made a website to host these tasks (and generate a visual timeline)!
 
 Repository: 
 
