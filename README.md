@@ -1,7 +1,7 @@
 # Hi There! 😁
 
 ## About Me 👩🏼‍💻
-My name is Zoe Bailey, I am a junior at West Virginia University studying computer engineering. Within the University I am involved as the Awards and Grants Chair for WVU's chapter of the Society of Women Engineers. Also, I am the social media chair for WVU's chapter of Engineers Without Borders. I have worked with artificial intellegence (machine learning, computer vision, natural language proccessing), and spesificially AI in the health and legal sectors. I am interested in any work that helps the greater good of humanity. Otherwise, in my free time I enjoy watching reality TV and playing video games!
+My name is Zoe Bailey (she/her), I am a junior at West Virginia University studying computer engineering. Within the University I am involved as the Awards and Grants Chair for WVU's chapter of the Society of Women Engineers. Also, I am the social media chair for WVU's chapter of Engineers Without Borders. I have worked with artificial intellegence (machine learning, computer vision, natural language proccessing), and spesificially AI in the health and legal sectors. I am interested in any work that helps the greater good of humanity. Otherwise, in my free time I enjoy watching reality TV and playing video games!
 
 ## Tech Stack 💻
 I have experience and expertise coding in multiple languages including:
@@ -35,11 +35,13 @@ As a project to work on for personal fun and in conjunction with PLC Geeks, I cr
 
 ### In Progress...
 📍 Personal Project Website
-- More details to come, stay tuned... 🤫
+More details to come, stay tuned... 🤫
 
 ## Contact Information
 School email: znb00004@mix.wvu.edu
+
 LinkedIn: www.linkedin.com/in/zoe-bailey-40a608253
+
 Phone number: available upon email request
 
 <!--
