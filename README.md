@@ -1,7 +1,7 @@
 # Hi There! 😁
 
 ## About Me 👩🏼‍💻
-My name is Zoe Bailey (she/her), I am a junior at West Virginia University studying computer engineering. Within the University I am involved as the Awards and Grants Chair for WVU's chapter of the Society of Women Engineers. Also, I am the social media chair for WVU's chapter of Engineers Without Borders. I have worked with artificial intellegence (machine learning, computer vision, natural language proccessing), and spesificially AI in the health and legal sectors. I am interested in any work that helps the greater good of humanity. Otherwise, in my free time I enjoy watching reality TV and playing video games!
+My name is Zoe Bailey (she/her), I am a junior at West Virginia University studying computer engineering. Within the University I am involved as the Awards and Grants Chair for WVU's chapter of the Society of Women Engineers. I have worked with artificial intellegence (machine learning, computer vision, natural language proccessing), and spesificially AI in the health and legal sectors. I am interested in any work that helps the greater good of humanity. Otherwise, in my free time I enjoy watching reality TV and playing video games!
 
 ## Tech Stack 💻
 I have experience and expertise coding in multiple languages including:
@@ -13,6 +13,7 @@ I have experience and expertise coding in multiple languages including:
 - HTML 🕸️
 - CSS 👩🏼‍🎨
 - VHDL ⚙️
+- JavaScript 🔁
 
 ## Key Projects 🔧
 📌 AI in the Legal Sector, Chronology Generating Bot for LegalDuel (2024) 👩🏼‍⚖️
@@ -34,8 +35,7 @@ For an AI camp project, me and a group of several other students decided to expl
 As a project to work on for personal fun and in conjunction with PLC Geeks, I created a simulation of a stop light and crosswalk. These were both displayed on HMIs and programmed using PLC ladder logic. There were 2 lights on display (one for north/south traffic another for east/west traffic) and 2 crosswalk signals on display (again for north/south and east/west). The lights were synchronized among themselves and to the crosswalk timers as well.
 
 ### In Progress...
-📍 Personal Project Website
-More details to come, stay tuned... 🤫
+📍 WeatherWeGo
 
 ## Contact Information
 School email: znb00004@mix.wvu.edu
