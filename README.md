@@ -17,9 +17,10 @@ I have experience and expertise coding in multiple languages including:
 - C++ ➕
 
 ## Key Projects 🔧
-📌 WeatherWeGo, Weather Website (2025) 
+📌 WeatherWeGo, Weather Website (2025) ☁️
+For my software engineering class (CS 330 @ WVU) Weather We Go is a full stack web application deployed using Microsoft Azure that allows users to explore destinations based on weather, climate, and walkability. The backend handles data aggregation, processing, and API interactions to power features such as extreme weather analysis, walkability indexing, and housing affordability while the frontend handles display and a personality quiz to match a user to a location. The coding for this project was primarily done via JavaScript, Python, and HTML.
 
-Repository:
+Repository: https://github.com/WVU-CS330-2025-01-Group02
 
 📌 AI in the Legal Sector, Chronology Generating Bot for LegalDuel (2024) 👩🏼‍⚖️
 
